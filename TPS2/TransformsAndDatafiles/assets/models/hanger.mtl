@@ -1,0 +1,51 @@
+newmtl Hanger:blinn1SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd corregatedMetalTiled.png
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 0.06
+newmtl Hanger:blinn3SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 0.31 0.31 0.31
+map_Kd Glass.png
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 0.06
+newmtl Hanger:blinn5SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd metalPanels.png
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 0.06
+newmtl Hanger:blinn6SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd metalPanels.png
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 0.06
+newmtl Hanger:blinn7SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd metalPanels.png
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 0.06
+newmtl Hanger:initialShadingGroup
+illum 4
+Kd 0.50 0.50 0.50
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00

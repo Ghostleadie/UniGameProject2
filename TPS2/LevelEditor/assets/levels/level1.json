@@ -1,0 +1,112 @@
+{
+  "StaticGameObjects": [
+    {
+      "name": "asphaltPlane",
+      "model": "asphaltPlane.obj",
+      "position": [ 0, 0, 0 ],
+      "orientation": [ 1, 0, 0, 0 ],
+      "scale": [ 1, 1, 1 ]
+    },
+    {
+      "name": "cube1",
+      "model": "D6.obj",
+      "position": [ 0, 5,0 ],
+      "orientation": [ 1, 0, 0, 0 ],
+      "scale": [ 1, 1, 1 ]
+    },
+    {
+      "name": "cube2",
+      "model": "cube.obj",
+      "position": [ -22.032, 0.75, -5.612 ],
+      "orientation": [ 1, 0, 0, 0 ],
+      "scale": [ 1, 1, 1 ]
+    },
+    {
+      "name": "cube3",
+      "model": "cube.obj",
+      "position": [ -23.032, 0.75, -5.612 ],
+      "orientation": [ 1, 0, 0, 0 ],
+      "scale": [ 1, 1, 1 ]
+    },
+    {
+      "name": "cube4",
+      "model": "cube.obj",
+      "position": [ -22.032, 0.75, -4.612 ],
+      "orientation": [ 1, 0, 0, 0 ],
+      "scale": [ 1, 1, 1 ]
+    },
+    {
+      "name": "cube5",
+      "model": "cube.obj",
+      "position": [ -22.532, 1.75, -5.112 ],
+      "orientation": [ 1, 0, 0, 0 ],
+      "scale": [ 1, 1, 1 ]
+    },
+    {
+      "name": "hanger1",
+      "model": "hanger.obj",
+      "position": [ -18.5, 0, -15.5 ],
+      "orientation": [ 0.956, 0, -0.292, 0 ],
+      "scale": [ 0.25, 0.25, 0.25 ]
+    },
+    {
+      "name": "hanger2",
+      "model": "hanger.obj",
+      "position": [ -19.2, 0, -4.6 ],
+      "orientation": [ 1, 0, 0, 0 ],
+      "scale": [ 0.25, 0.25, 0.25 ]
+    },
+    {
+      "name": "hanger3",
+      "model": "hanger.obj",
+      "position": [ -7, 0, -18.899 ],
+      "orientation": [ 0.707, 0, -0.707, 0 ],
+      "scale": [ 0.25, 0.25, 0.25 ]
+    },
+    {
+      "name": "hanger4",
+      "model": "hanger.obj",
+      "position": [ 1.882, 0, -18.899 ],
+      "orientation": [0.707, 0, -0.707, 0 ],
+      "scale": [ 0.25, 0.25, 0.25 ]
+    }
+
+  ],
+
+  "DynamicGameObjects": [
+    {
+      "name": "translatingCube",
+      "model": "cube.obj",
+      "position": [ -7, 1.75, -19 ],
+      "orientation": [ 1, 0, 0, 0 ],
+      "scale": [ 1, 1, 1 ],
+      "type": "translating",
+      "speed": [ 1, 2, 5 ],
+      "upperLimit": [-4.547 , 3, -15.361 ],
+      "lowerLimit": [ -9.489, 0.75, -23.234 ]
+    },
+    {
+      "name": "rotatingCube",
+      "model": "cube.obj",
+      "position": [ -18.7, 1.75, -16 ],
+      "orientation": [ 1, 0, 0, 0 ],
+      "scale": [ 1, 1, 1 ],
+      "type": "rotating",
+      "speed": [ 3, 2, 1 ],
+      "upperLimit": [0,0,0],
+      "lowerLimit": [0,0,0]
+    },
+    {
+      "name": "scalingCube",
+      "model": "cube.obj",
+      "position": [ 1.931, 0.75, -23.249 ],
+      "orientation": [ 1, 0, 0, 0 ],
+      "scale": [ 1, 1, 1 ],
+      "type": "scaling",
+      "speed": [1, 1, 1 ],
+      "upperLimit": [ 5.934, 5.812, 8.956],
+      "lowerLimit": [ 0.25, 0.25, 0.25 ]
+    }
+  ]
+
+}

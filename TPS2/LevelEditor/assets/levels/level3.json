@@ -1,0 +1,39 @@
+{
+  "StaticGameObjects": [
+ {
+      "name": "asphaltPlane",
+      "model": "asphaltPlane.obj",
+      "position": [ 0, 0, 0 ],
+      "orientation": [ 1, 0, 0, 0 ],
+      "scale": [ 1, 1, 1 ]
+    },
+    {
+      "name": "pTeapot1",
+      "model": "teapot.obj",
+      "position": [ 0, 4.453, -12.813 ],
+      "orientation": [ 0.7071068, 0, -0.7071068, 0 ],
+      "scale":  [ 7, 7, 7 ]
+    },
+    {
+      "name": "pTeapot3",
+      "model": "teapot.obj",
+      "position": [ -11.156, 2.031, 0 ],
+      "orientation": [ 1, 0, 0, 0 ],
+      "scale":  [ 3, 3, 3 ]
+    },
+    {
+      "name": "pTeapot4",
+      "model": "teapot.obj",
+      "position": [ 0, 2.996, 17.531 ],
+      "orientation": [ 0.7071068, 0, 0.7071068, 0 ],
+      "scale": [ 5, 5, 5 ]
+    },
+    {
+      "name": "pTeapot5",
+      "model": "teapot.obj",
+      "position": [ 16.228, 0.936, 0 ],
+      "orientation": [ 0, 0, 1, 0 ],
+      "scale": [ 1, 1, 1 ]
+    }
+  ]
+}

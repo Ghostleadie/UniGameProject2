@@ -1,0 +1,171 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="main.cpp" />
+    <ClCompile Include="DynamicGameObject.cpp">
+      <Filter>Source Files\Game Objects</Filter>
+    </ClCompile>
+    <ClCompile Include="player.cpp">
+      <Filter>Source Files\Game Objects</Filter>
+    </ClCompile>
+    <ClCompile Include="StaticGameObject.cpp">
+      <Filter>Source Files\Game Objects</Filter>
+    </ClCompile>
+    <ClCompile Include="Mesh.cpp">
+      <Filter>Source Files\Model Management</Filter>
+    </ClCompile>
+    <ClCompile Include="Model.cpp">
+      <Filter>Source Files\Model Management</Filter>
+    </ClCompile>
+    <ClCompile Include="ModelManager.cpp">
+      <Filter>Source Files\Model Management</Filter>
+    </ClCompile>
+    <ClCompile Include="GLAD\glad.c">
+      <Filter>Resource Files</Filter>
+    </ClCompile>
+    <ClCompile Include="jsoncpp.cpp">
+      <Filter>Resource Files</Filter>
+    </ClCompile>
+    <ClCompile Include="stb_image.c">
+      <Filter>Resource Files</Filter>
+    </ClCompile>
+    <ClCompile Include="imgui.cpp">
+      <Filter>Source Files\ImGui</Filter>
+    </ClCompile>
+    <ClCompile Include="imgui_demo.cpp">
+      <Filter>Source Files\ImGui</Filter>
+    </ClCompile>
+    <ClCompile Include="imgui_draw.cpp">
+      <Filter>Source Files\ImGui</Filter>
+    </ClCompile>
+    <ClCompile Include="imgui_impl_glfw_gl3.cpp">
+      <Filter>Source Files\ImGui</Filter>
+    </ClCompile>
+    <ClCompile Include="LevelEditor.cpp">
+      <Filter>Source Files\Level Editor</Filter>
+    </ClCompile>
+    <ClCompile Include="GLFW_Imgui_EngineCore.cpp">
+      <Filter>Source Files\Level Editor</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="CameraComponent.h">
+      <Filter>Header Files\Components</Filter>
+    </ClInclude>
+    <ClInclude Include="ColourComponent.h">
+      <Filter>Header Files\Components</Filter>
+    </ClInclude>
+    <ClInclude Include="ModelComponent.h">
+      <Filter>Header Files\Components</Filter>
+    </ClInclude>
+    <ClInclude Include="TransformComponent.h">
+      <Filter>Header Files\Components</Filter>
+    </ClInclude>
+    <ClInclude Include="IEngineCore.h">
+      <Filter>Header Files\Game Manager</Filter>
+    </ClInclude>
+    <ClInclude Include="InputHandler.h">
+      <Filter>Header Files\Game Manager</Filter>
+    </ClInclude>
+    <ClInclude Include="Component.h">
+      <Filter>Header Files\Components</Filter>
+    </ClInclude>
+    <ClInclude Include="DynamicGameObject.h">
+      <Filter>Header Files\Game Objects</Filter>
+    </ClInclude>
+    <ClInclude Include="GameObject.h">
+      <Filter>Header Files\Game Objects</Filter>
+    </ClInclude>
+    <ClInclude Include="Player.h">
+      <Filter>Header Files\Game Objects</Filter>
+    </ClInclude>
+    <ClInclude Include="StaticGameObject.h">
+      <Filter>Header Files\Game Objects</Filter>
+    </ClInclude>
+    <ClInclude Include="ModelManager.h">
+      <Filter>Header Files\Model Management</Filter>
+    </ClInclude>
+    <ClInclude Include="Model.h">
+      <Filter>Header Files\Model Management</Filter>
+    </ClInclude>
+    <ClInclude Include="Mesh.h">
+      <Filter>Header Files\Model Management</Filter>
+    </ClInclude>
+    <ClInclude Include="SceneComponent.h">
+      <Filter>Header Files\Components</Filter>
+    </ClInclude>
+    <ClInclude Include="Game.h">
+      <Filter>Header Files\Game Manager</Filter>
+    </ClInclude>
+    <ClInclude Include="LevelEditor.h">
+      <Filter>Header Files\Level Editor</Filter>
+    </ClInclude>
+    <ClInclude Include="GLFW_Imgui_EngineCore.h">
+      <Filter>Header Files\Level Editor</Filter>
+    </ClInclude>
+    <ClInclude Include="MiscGameObject.h">
+      <Filter>Header Files\Game Objects</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="assets\levels\level1.json">
+      <Filter>Data Files</Filter>
+    </None>
+    <None Include="assets\levels\level2.json">
+      <Filter>Data Files</Filter>
+    </None>
+    <None Include="assets\levels\level3.json">
+      <Filter>Data Files</Filter>
+    </None>
+    <None Include="assets\levels\levelList.json">
+      <Filter>Data Files</Filter>
+    </None>
+    <None Include="assets\levels\EmptyLevel.json">
+      <Filter>Data Files</Filter>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{9db0e685-73cd-4035-8f32-f29c37e55ef2}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{a3cfeb8e-122c-428b-a022-e038ca33ddb3}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\Components">
+      <UniqueIdentifier>{00b56a8d-de3b-46ad-afc7-d61d5eb294f4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\Game Manager">
+      <UniqueIdentifier>{4a85a754-d7f3-4b82-bcaf-2c8f9696f771}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\Game Objects">
+      <UniqueIdentifier>{70a1f694-169b-455c-ac16-aa7b2da3c44e}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\Model Management">
+      <UniqueIdentifier>{8aecd7f9-5df8-41de-814c-85d211ba951b}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\ImGui">
+      <UniqueIdentifier>{e0c8cc8a-495b-4c66-8d46-6ac9887774aa}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Game Manager">
+      <UniqueIdentifier>{756646fc-8160-4746-b942-44a854172f38}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Game Objects">
+      <UniqueIdentifier>{0bc9eecc-871b-4d76-97f8-c644451a09f1}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Model Management">
+      <UniqueIdentifier>{38b48453-d733-4db6-9d2e-82221d0867c7}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Data Files">
+      <UniqueIdentifier>{3cf8eb23-91be-4a33-b340-7b5b52b9d642}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Resource Files">
+      <UniqueIdentifier>{a70af537-660d-4745-93ad-d76e4e534574}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Level Editor">
+      <UniqueIdentifier>{c8ad1f6e-ca9c-495f-a084-296459a15f1d}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\Level Editor">
+      <UniqueIdentifier>{e26affcf-5667-4904-88f3-79a1b04e4500}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

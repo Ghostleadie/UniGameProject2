@@ -1,0 +1,524 @@
+{
+  "StaticGameObjects": [
+    //row 1
+    {
+      "name": "t2",
+      "model": "teapot.obj",
+      "position": [ -22, 0.85, -18 ],
+      "orientation": [ 1, 0, 0, 0 ],
+      "scale": [ 1, 1, 1 ],
+      "size": [ 1, 1, 1 ]
+    },
+
+    {
+      "name": "t3",
+      "model": "teapot.obj",
+      "position": [ -22, 0.85, -14 ],
+      "orientation": [ 1, 0, 0, 0 ],
+      "scale": [ 1, 1, 1 ],
+      "size": [ 1, 1, 1 ]
+    },
+
+    {
+      "name": "t4",
+      "model": "teapot.obj",
+      "position": [ -22, 0.85, -10 ],
+      "orientation": [ 1, 0, 0, 0 ],
+      "scale": [ 1, 1, 1 ],
+      "size": [ 1, 1, 1 ]
+    },
+
+    {
+      "name": "t5",
+      "model": "teapot.obj",
+      "position": [ -22, 0.85, -6 ],
+      "orientation": [ 1, 0, 0, 0 ],
+      "scale": [ 1, 1, 1 ],
+      "size": [ 1, 1, 1 ]
+    },
+
+    {
+      "name": "t6",
+      "model": "teapot.obj",
+      "position": [ -22, 0.85, -2 ],
+      "orientation": [ 1, 0, 0, 0 ],
+      "scale": [ 1, 1, 1 ],
+      "size": [ 1, 1, 1 ]
+    },
+
+    {
+      "name": "t7",
+      "model": "teapot.obj",
+      "position": [ -22, 0.85, 4 ],
+      "orientation": [ 1, 0, 0, 0 ],
+      "scale": [ 1, 1, 1 ],
+      "size": [ 1, 1, 1 ]
+    },
+
+    {
+      "name": "t8",
+      "model": "teapot.obj",
+      "position": [ -22, 0.85, 8 ],
+      "orientation": [ 1, 0, 0, 0 ],
+      "scale": [ 1, 1, 1 ],
+      "size": [ 1, 1, 1 ]
+    },
+
+    {
+      "name": "t9",
+      "model": "teapot.obj",
+      "position": [ -22, 0.85, 12 ],
+      "orientation": [ 1, 0, 0, 0 ],
+      "scale": [ 1, 1, 1 ],
+      "size": [ 1, 1, 1 ]
+    },
+
+    {
+      "name": "t10",
+      "model": "teapot.obj",
+      "position": [ -22, 0.85, 16 ],
+      "orientation": [ 1, 0, 0, 0 ],
+      "scale": [ 1, 1, 1 ],
+      "size": [ 1, 1, 1 ]
+    },
+
+    {
+      "name": "t11",
+      "model": "teapot.obj",
+      "position": [ -22, 0.85, 20 ],
+      "orientation": [ 1, 0, 0, 0 ],
+      "scale": [ 1, 1, 1 ],
+      "size": [ 1, 1, 1 ]
+    },
+
+    //row 2
+    {
+      "name": "t13",
+      "model": "teapot.obj",
+      "position": [ -18, 0.85, 22 ],
+      "orientation": [ 1, 0, 0, 0 ],
+      "scale": [ 1, 1, 1 ],
+      "size": [ 1, 1, 1 ]
+    },
+
+    {
+      "name": "t14",
+      "model": "teapot.obj",
+      "position": [ -14, 0.85, 22 ],
+      "orientation": [ 1, 0, 0, 0 ],
+      "scale": [ 1, 1, 1 ],
+      "size": [ 1, 1, 1 ]
+    },
+
+    {
+      "name": "t15",
+      "model": "teapot.obj",
+      "position": [ -10, 0.85, 22 ],
+      "orientation": [ 1, 0, 0, 0 ],
+      "scale": [ 1, 1, 1 ],
+      "size": [ 1, 1, 1 ]
+    },
+
+    {
+      "name": "t16",
+      "model": "teapot.obj",
+      "position": [ -6, 0.85, 22 ],
+      "orientation": [ 1, 0, 0, 0 ],
+      "scale": [ 1, 1, 1 ],
+      "size": [ 1, 1, 1 ]
+    },
+
+    {
+      "name": "t17",
+      "model": "teapot.obj",
+      "position": [ -2, 0.85, 22 ],
+      "orientation": [ 1, 0, 0, 0 ],
+      "scale": [ 1, 1, 1 ],
+      "size": [ 1, 1, 1 ]
+    },
+
+    {
+      "name": "t18",
+      "model": "teapot.obj",
+      "position": [ 4, 0.85, 22 ],
+      "orientation": [ 1, 0, 0, 0 ],
+      "scale": [ 1, 1, 1 ],
+      "size": [ 1, 1, 1 ]
+    },
+
+    {
+      "name": "t19",
+      "model": "teapot.obj",
+      "position": [ 8, 0.85, 22 ],
+      "orientation": [ 1, 0, 0, 0 ],
+      "scale": [ 1, 1, 1 ],
+      "size": [ 1, 1, 1 ]
+    },
+
+    {
+      "name": "t20",
+      "model": "teapot.obj",
+      "position": [ 12, 0.85, 22 ],
+      "orientation": [ 1, 0, 0, 0 ],
+      "scale": [ 1, 1, 1 ],
+      "size": [ 1, 1, 1 ]
+    },
+
+    {
+      "name": "t21",
+      "model": "teapot.obj",
+      "position": [ 16, 0.85, 22 ],
+      "orientation": [ 1, 0, 0, 0 ],
+      "scale": [ 1, 1, 1 ],
+      "size": [ 1, 1, 1 ]
+    },
+
+    {
+      "name": "t22",
+      "model": "teapot.obj",
+      "position": [ 20, 0.85, 22 ],
+      "orientation": [ 1, 0, 0, 0 ],
+      "scale": [ 1, 1, 1 ],
+      "size": [ 1, 1, 1 ]
+    },
+    //row 3
+
+    {
+      "name": "t24",
+      "model": "teapot.obj",
+      "position": [ 22, 0.85, 18 ],
+      "orientation": [ 1, 0, 0, 0 ],
+      "scale": [ 1, 1, 1 ],
+      "size": [ 1, 1, 1 ]
+    },
+
+    {
+      "name": "t25",
+      "model": "teapot.obj",
+      "position": [ 22, 0.85, 14 ],
+      "orientation": [ 1, 0, 0, 0 ],
+      "scale": [ 1, 1, 1 ],
+      "size": [ 1, 1, 1 ]
+    },
+
+    {
+      "name": "t26",
+      "model": "teapot.obj",
+      "position": [ 22, 0.85, 10 ],
+      "orientation": [ 1, 0, 0, 0 ],
+      "scale": [ 1, 1, 1 ],
+      "size": [ 1, 1, 1 ]
+    },
+
+    {
+      "name": "t27",
+      "model": "teapot.obj",
+      "position": [ 22, 0.85, 6 ],
+      "orientation": [ 1, 0, 0, 0 ],
+      "scale": [ 1, 1, 1 ],
+      "size": [ 1, 1, 1 ]
+    },
+
+    {
+      "name": "t28",
+      "model": "teapot.obj",
+      "position": [ 22, 0.85, 2 ],
+      "orientation": [ 1, 0, 0, 0 ],
+      "scale": [ 1, 1, 1 ],
+      "size": [ 1, 1, 1 ]
+    },
+
+    {
+      "name": "t29",
+      "model": "teapot.obj",
+      "position": [ 22, 0.85, -2 ],
+      "orientation": [ 1, 0, 0, 0 ],
+      "scale": [ 1, 1, 1 ],
+      "size": [ 1, 1, 1 ]
+    },
+
+    {
+      "name": "t30",
+      "model": "teapot.obj",
+      "position": [ 22, 0.85, -6 ],
+      "orientation": [ 1, 0, 0, 0 ],
+      "scale": [ 1, 1, 1 ],
+      "size": [ 1, 1, 1 ]
+    },
+
+    {
+      "name": "t31",
+      "model": "teapot.obj",
+      "position": [ 22, 0.85, -10 ],
+      "orientation": [ 1, 0, 0, 0 ],
+      "scale": [ 1, 1, 1 ],
+      "size": [ 1, 1, 1 ]
+    },
+
+    {
+      "name": "t32",
+      "model": "teapot.obj",
+      "position": [ 22, 0.85, -14 ],
+      "orientation": [ 1, 0, 0, 0 ],
+      "scale": [ 1, 1, 1 ],
+      "size": [ 1, 1, 1 ]
+    },
+
+    {
+      "name": "t33",
+      "model": "teapot.obj",
+      "position": [ 22, 0.85, -18 ],
+      "orientation": [ 1, 0, 0, 0 ],
+      "scale": [ 1, 1, 1 ],
+      "size": [ 1, 1, 1 ]
+    },
+    //row 4
+    {
+      "name": "t35",
+      "model": "teapot.obj",
+      "position": [ 20, 0.85, -22 ],
+      "orientation": [ 1, 0, 0, 0 ],
+      "scale": [ 1, 1, 1 ],
+      "size": [ 1, 1, 1 ]
+    },
+
+    {
+      "name": "t36",
+      "model": "teapot.obj",
+      "position": [ 16, 0.85, -22 ],
+      "orientation": [ 1, 0, 0, 0 ],
+      "scale": [ 1, 1, 1 ],
+      "size": [ 1, 1, 1 ]
+    },
+
+    {
+      "name": "t37",
+      "model": "teapot.obj",
+      "position": [ 12, 0.85, -22 ],
+      "orientation": [ 1, 0, 0, 0 ],
+      "scale": [ 1, 1, 1 ],
+      "size": [ 1, 1, 1 ]
+    },
+
+    {
+      "name": "t38",
+      "model": "teapot.obj",
+      "position": [ 8, 0.85, -22 ],
+      "orientation": [ 1, 0, 0, 0 ],
+      "scale": [ 1, 1, 1 ],
+      "size": [ 1, 1, 1 ]
+    },
+
+    {
+      "name": "t39",
+      "model": "teapot.obj",
+      "position": [ 4, 0.85, -22 ],
+      "orientation": [ 1, 0, 0, 0 ],
+      "scale": [ 1, 1, 1 ],
+      "size": [ 1, 1, 1 ]
+    },
+
+    {
+      "name": "t40",
+      "model": "teapot.obj",
+      "position": [ -2, 0.85, -22 ],
+      "orientation": [ 1, 0, 0, 0 ],
+      "scale": [ 1, 1, 1 ],
+      "size": [ 1, 1, 1 ]
+    },
+
+    {
+      "name": "t41",
+      "model": "teapot.obj",
+      "position": [ -6, 0.85, -22 ],
+      "orientation": [ 1, 0, 0, 0 ],
+      "scale": [ 1, 1, 1 ],
+      "size": [ 1, 1, 1 ]
+    },
+
+    {
+      "name": "t42",
+      "model": "teapot.obj",
+      "position": [ -10, 0.85, -22 ],
+      "orientation": [ 1, 0, 0, 0 ],
+      "scale": [ 1, 1, 1 ],
+      "size": [ 1, 1, 1 ]
+    },
+
+    {
+      "name": "t43",
+      "model": "teapot.obj",
+      "position": [ -14, 0.85, -22 ],
+      "orientation": [ 1, 0, 0, 0 ],
+      "scale": [ 1, 1, 1 ],
+      "size": [ 1, 1, 1 ]
+    },
+
+    {
+      "name": "t44",
+      "model": "teapot.obj",
+      "position": [ -18, 0.85, -22 ],
+      "orientation": [ 1, 0, 0, 0 ],
+      "scale": [ 1, 1, 1 ],
+      "size": [ 1, 1, 1 ]
+    },
+
+    {
+      "name": "t45",
+      "model": "teapot.obj",
+      "position": [ -22, 0.85, -22 ],
+      "orientation": [ 1, 0, 0, 0 ],
+      "scale": [ 1, 1, 1 ],
+      "size": [ 1, 1, 1 ]
+    }
+
+
+  ],
+
+  "DynamicGameObjects": [
+    {
+      "name": "ground",
+      "model": "teapotPlane.obj",
+      "position": [ 0, 0, 0 ],
+      "orientation": [ 1, 0, 0, 0 ],
+      "scale": [ 1, 1, 1 ]
+    },
+    // wall 1
+    {
+      "name": "wall1",
+      "model": "wall.obj",
+      "position": [ -14, 4, -25 ],
+      "orientation": [ 0.707, 0, -0.707, 0 ],
+      "scale": [ 1, 1, 1 ],
+      "size": [ 100.176, 10, 2 ]
+    },
+    {
+      "name": "wall2",
+      "model": "wall.obj",
+      "position": [ 0, 4, -25 ],
+      "orientation": [ 0.707, 0, -0.707, 0 ],
+      "scale": [ 1, 1, 1 ],
+      "size": [ 100.176, 10, 2 ]
+    },
+    {
+      "name": "wall3",
+      "model": "wall.obj",
+      "position": [ 14, 4, -25 ],
+      "orientation": [ 0.707, 0, -0.707, 0 ],
+      "scale": [ 1, 1, 1 ],
+      "size": [ 100.176, 10, 2 ]
+    },
+    //wall 2
+    {
+      "name": "wall4",
+      "model": "wall.obj",
+      "position": [ -24.9, 4, -14.5 ],
+      "orientation": [ 1, 0, 0, 0 ],
+      "scale": [ 1, 1, 1 ],
+      "size": [ 2, 10, 100.6 ]
+    },
+    {
+      "name": "wall5",
+      "model": "wall.obj",
+      "position": [ -24.9, 4, 6.75 ],
+      "orientation": [ 1, 0, 0, 0 ],
+      "scale": [ 1, 1, 1 ],
+      "size": [ 2, 10, 100.6 ]
+    }, //wall next to hole
+    {
+      "name": "wall6",
+      "model": "wall.obj",
+      "position": [ -24.9, 4, 28 ],
+      "orientation": [ 1, 0, 0, 0 ],
+      "scale": [ 1, 1, 1 ],
+      "size": [ 2, 10, 100 ]
+    },
+
+    //wall 3
+    {
+      "name": "wall7",
+      "model": "wall.obj",
+      "position": [ -14.5, 4, 25 ],
+      "orientation": [  0.707, 0, -0.707, 0],
+      "scale": [ 1, 1, 1 ],
+      "size": [ 75, 10, 2  ]
+    },
+    {
+      "name": "wall8",
+      "model": "wall.obj",
+      "position": [ 0, 4, 25 ],
+      "orientation": [ 0.707, 0, -0.707, 0 ],
+      "scale": [ 1, 1, 1 ],
+      "size": [ 75.176, 10, 2 ]
+    },
+    {
+      "name": "wall9",
+      "model": "wall.obj",
+      "position": [ 14.5, 4, 25 ],
+      "orientation": [ 0.707, 0, -0.707, 0 ],
+      "scale": [ 1, 1, 1 ],
+      "size": [ 75.176, 10, 2 ]
+    },
+
+
+    // wall 4
+    {
+      "name": "wall10",
+      "model": "wall.obj",
+      "position": [ 24.9, 4, 28 ],
+      "orientation": [ 1, 0, 0, 0 ],
+      "scale": [ 1, 1, 1 ],
+      "size": [ 2, 10, 75.6  ]
+    },
+    {
+      "name": "wall11",
+      "model": "wall.obj",
+      "position": [ 24.9, 4, -14.5 ],
+      "orientation": [ 1, 0, 0, 0 ],
+      "scale": [ 1, 1, 1 ],
+      "size": [ 2, 10, 75.6 ]
+    },
+    {
+      "name": "wall12",
+      "model": "wall.obj",
+      "position": [ 24.9, 4, 6.75 ],
+      "orientation": [ 1, 0, 0, 0 ],
+      "scale": [ 1, 1, 1 ],
+      "size": [ 2, 10, 75.6 ]
+    },
+    {
+      "name": "Box1",
+      "model": "cube.obj",
+      "position": [ 4, 1.2, 4 ],
+      "orientation": [ 1, 0, 0, 0 ],
+      "scale": [ 2, 2, 2 ],
+      "size": [ 0.75, 10, 0.75 ]
+    },
+    {
+      "name": "Box2",
+      "model": "cube.obj",
+      "position": [ -4, 1.2, 4 ],
+      "orientation": [ 1, 0, 0, 0 ],
+      "scale": [ 2, 2, 2 ],
+      "size": [ 0.75, 10, 0.75 ]
+    },
+    {
+      "name": "Box3",
+      "model": "cube.obj",
+      "position": [ -4, 1.2, -4 ],
+      "orientation": [ 1, 0, 0, 0 ],
+      "scale": [ 2, 2, 2 ],
+      "size": [ 0.75, 10, 0.75 ]
+    },
+    {
+      "name": "Box4",
+      "model": "cube.obj",
+      "position": [ 4, 1.2, -4 ],
+      "orientation": [ 1, 0, 0, 0 ],
+      "scale": [ 2, 2, 2 ],
+      "size": [ 0.75, 10, 0.75 ]
+    }
+
+  ]
+
+}
